@@ -9,8 +9,8 @@ As always, Im commited to come back and continue with my work.
 
 Preview
 
-![Note Taker](./assets/)
+![Note Taker](\Assets\screencapture.png)
  
 ## Link to deployed page
 
-https://miguel-thethird/
+https://miguel-thethird.github.io/Express.js-Note-Taker/
